@@ -36,14 +36,14 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)\
+![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql&logoColor=FF9000)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
 ![Premiere](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 &nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
@@ -63,7 +63,7 @@
 <a href="https://www.facebook.com/franccodot"><img src="https://img.shields.io/badge/-David Blandón Mena-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.behance.net/franccoina"><img src="https://img.shields.io/badge/-@franccoina-800080?style=flat&logo=Behance&logoColor=white"/></a>
 <a href="https://co.pinterest.com/franccoina/"><img src="https://img.shields.io/badge/-@franccoina-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.instagram.com/franccoina/"><img src="https://img.shields.io/badge/-@franccoina-ffa500?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/franccoina/"><img src="https://img.shields.io/badge/-@franccoina-FF9000?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/franccoina"><img src="https://img.shields.io/badge/-@franccoina-808080?style=flat&logo=x&logoColor=white"/></a>
 </p>
 
