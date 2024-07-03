@@ -5,6 +5,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Franco -->
 
+&nbsp;
 ### 📀 &nbsp;About Me
 
 📍 &nbsp;I am from Colombia, raised in a city called Medellin. You should visit us someday.
