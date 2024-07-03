@@ -7,22 +7,23 @@
 
 ### 📀 &nbsp;About Me
 
-📍 &nbsp;I am from Colombia, raised in a city called Medellin. You should visit us someday.\
+📍 &nbsp;I am from Colombia, raised in a city called Medellin. You should visit us someday.
 
-💡 &nbsp;I love exploring new technologies and designing software, from Backend to Frontend.\
+💡 &nbsp;I love exploring new technologies and designing software, from Backend to Frontend.
 
-🎓 &nbsp;I'm currently studying Software Development at the Instituto Tecnologico Metropolitano.\
+🎓 &nbsp;I'm currently studying Software Development at the Instituto Tecnologico Metropolitano.
 
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence. Also into calisthenics.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence. Also into calisthenics.
 
-🧠 &nbsp;In my free time, I pursue Graphic Design and Visual Arts projects as some of my 'hidden' passions.\
+🧠 &nbsp;In my free time, I pursue Graphic Design and Visual Arts projects as some of my 'hidden' passions.
 
-💬 &nbsp;Feel free to reach me out for working on any of your potential ideas... or just for a chat.\
+💬 &nbsp;Feel free to reach me out for working on any of your potential ideas... or just for a chat.
 
-📼 &nbsp;You can send me an email at franccoina@gmail.com! I'll try to respond as soon as I can.\
+📼 &nbsp;You can send me an email at franccoina@gmail.com! I'll try to respond as soon as I can.
 
 📄 &nbsp;Have a look at my profile for more details about me. I'm open to feedback, invitations and suggestions!
 
+&nbsp;
 ### 🛠 &nbsp;Tech Stack
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -44,6 +45,7 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
 ![Premiere](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
 
+&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <table style="width:100%"  align="center">
@@ -53,6 +55,7 @@
   </tr>
 </table>
 
+&nbsp;
 ### 🤝 &nbsp;Contact Me
 
 <p align="center">
