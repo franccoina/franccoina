@@ -19,7 +19,7 @@
 
 💬 &nbsp;Feel free to reach me out for working on any of your potential ideas... or just for a chat.
 
-📼 &nbsp;You can send me an email at franccoina@gmail.com! I'll try to respond as soon as I can.
+📼 &nbsp;You can send me an email at franccoina@gmail.com. I'll try to respond as soon as I can.
 
 📄 &nbsp;Have a look at my profile for more details about me. I'm open to feedback, invitations and suggestions!
 
