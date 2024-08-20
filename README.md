@@ -18,7 +18,7 @@
 
 🧠 &nbsp;I'm on track for learning more about UX / UI Design. Also into calisthenics.
 
-💬 &nbsp;Feel free to reach me out for working on any of your potential ideas... or just for a chat.
+💬 &nbsp;Feel free to reach me out for working on any of your potential ideas... or just for a chat too.
 
 📭 &nbsp;You can send me an email at franccoina@gmail.com. I'll try to respond as soon as I can.
 
