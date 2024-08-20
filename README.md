@@ -16,7 +16,7 @@
 
 🌱 &nbsp;In my free time, I pursue Graphic Design and Visual Arts projects as some of my 'hidden' passions.
 
-🧠 &nbsp;I'm on track for learning more about Artificial Intelligence. Also into calisthenics.
+🧠 &nbsp;I'm on track for learning more about UX / UI Design. Also into calisthenics.
 
 💬 &nbsp;Feel free to reach me out for working on any of your potential ideas... or just for a chat.
 
