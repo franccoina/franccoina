@@ -8,19 +8,19 @@
 &nbsp;
 ### 📀 &nbsp;About Me
 
-📍 &nbsp;I'm from Colombia, raised in a city called Medellín. You should visit us someday.
+📍 &nbsp;I'm from *Colombia*, raised in a city called *Medellín*. You should visit us someday.
 
-🎓 &nbsp;Currently studying Software Development at Instituto Tecnológico Metropolitano and Riwi.io.
+🎓 &nbsp;Currently studying *Software Development* at Instituto Tecnológico Metropolitano and Riwi.io.
 
-🔎 &nbsp;Flowing from Backend to Frontend! I just love exploring new techs and creative fields.
+🔎 &nbsp;Flowing from Backend to *Frontend*. I just love exploring new techs and creative fields.
 
-🌱 &nbsp;In my free time, I pursue Graphic Design and Visual Arts projects as some of my passions.
+🌱 &nbsp;In my free time, I pursue *Graphic Design* and *Visual Arts* projects as some of my passions.
 
-🧠 &nbsp;I'm on track for learning more about UX / UI Design. Also into calisthenics.
+🧠 &nbsp;I'm on track for learning more about *UX / UI Design*. Also into *calisthenics*.
 
 💬 &nbsp;Feel free to reach me out for working on any of your potential ideas... or just for a chat too.
 
-📭 &nbsp;You can send me an email at franccoina@gmail.com. I'll try to respond as soon as I can.
+📭 &nbsp;You can send me an email at *franccoina@gmail.com*. I'll try to respond as soon as I can.
 
 📄 &nbsp;Have a look at my profile for more details about me. I'm open to feedback, invitations and suggestions!
 
