@@ -22,7 +22,7 @@
 
 📭 &nbsp;You can send me an email at *franccoina@gmail.com*. I'll try to respond as soon as I can.
 
-📄 &nbsp;Have a look at my profile for more details about me. I'm open to feedback and proposals!
+📄 &nbsp;Have a look at my profile for more details about me. I'm open to feedback and suggestions!
 
 &nbsp;
 ### 🛠 &nbsp;Tech Stack
