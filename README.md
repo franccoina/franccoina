@@ -14,7 +14,7 @@
 
 🔎 &nbsp;Flowing from Backend to Frontend! I just love exploring new techs and creative fields.
 
-🌱 &nbsp;In my free time, I pursue Crossmedia Design and Visual Arts projects as some of my 'hidden' passions.
+🌱 &nbsp;In my free time, I pursue Graphic Design and Visual Arts projects as some of my 'hidden' passions.
 
 🧠 &nbsp;I'm on track for learning more about UX / UI Design. Also into calisthenics.
 
