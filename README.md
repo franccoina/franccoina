@@ -73,7 +73,7 @@
   <a href="https://www.behance.net/franccoina" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-572364?style=flat&logo=Behance&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.artstation.com/franccoina" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-931320?style=flate&logo=artstation&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.reddit.com/user/Franccoina/" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-FC5A00?style=flat&logo=Reddit&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.instagram.com/franccoina/" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-FFA800?style=flat&logo=Instagram&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.instagram.com/franccoina/" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-FFA900?style=flat&logo=Instagram&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://twitter.com/franccoina" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-777777?style=flate&logo=x&logoColor=white" alt="social-media-logo"/></a>
 </p>
 
