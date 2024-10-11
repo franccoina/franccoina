@@ -71,11 +71,10 @@
   <a href="https://co.linkedin.com/in/franccoina" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-318A80?style=flat&logo=Linkedin&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.facebook.com/franccoico" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-1877F0?style=flat&logo=Facebook&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.behance.net/franccoina" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-572364?style=flat&logo=Behance&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://co.pinterest.com/franccoina/" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-BD081C?style=flat&logo=Pinterest&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.reddit.com/user/Franccoina/" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-FC5A08?style=flat&logo=Reddit&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.instagram.com/franccoina/" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-FFA500?style=flat&logo=Instagram&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://twitter.com/franccoina" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-808080?style=flate&logo=x&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.artstation.com/franccoina" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-25385F?style=flate&logo=artstation&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.artstation.com/franccoina" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-931320?style=flate&logo=artstation&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.reddit.com/user/Franccoina/" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-FC5A00?style=flat&logo=Reddit&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.instagram.com/franccoina/" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-FFA800?style=flat&logo=Instagram&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://twitter.com/franccoina" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-777777?style=flate&logo=x&logoColor=white" alt="social-media-logo"/></a>
 </p>
 
 <div align="center">
