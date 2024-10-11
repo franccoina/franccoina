@@ -8,7 +8,7 @@
 &nbsp;
 ### 📀 &nbsp;About Me
 
-📍 &nbsp;I'm from Colombia, raised in a city called Medellin. You should visit us someday.
+📍 &nbsp;I'm from Colombia, raised in a city called Medellín. You should visit us someday.
 
 🎓 &nbsp;Currently studying Software Development at Instituto Tecnologico Metropolitano and Riwi.io.
 
