@@ -68,7 +68,7 @@
 ### ☎️ &nbsp;Contact Me
 
 <p align="center">
-  <a href="https://co.linkedin.com/in/franccoina" target="_blank"><img src="https://img.shields.io/badge/-David Francisco Blandón Mena-318A80?style=flat&logo=Linkedin&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://co.linkedin.com/in/franccoina" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-318A80?style=flat&logo=Linkedin&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.facebook.com/franccoico" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-1877F0?style=flat&logo=Facebook&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.behance.net/franccoina" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-572364?style=flat&logo=Behance&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://co.pinterest.com/franccoina/" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-BD081C?style=flat&logo=Pinterest&logoColor=white" alt="social-media-logo"/></a>
