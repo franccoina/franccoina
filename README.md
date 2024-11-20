@@ -44,9 +44,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql&logoColor=FF9000)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=999999)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=C74634)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=999999)\
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)\
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After_Effects-05122A?style=flat&logo=adobe-after-effects&logoColor=C8849F)&nbsp;
