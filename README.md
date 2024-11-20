@@ -28,7 +28,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFE873)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFE873)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=FFD43B)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -36,7 +36,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)\
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
@@ -44,9 +44,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql&logoColor=FF9000)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=999999)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=FF9000)\
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=C74634)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=999999)\
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After_Effects-05122A?style=flat&logo=adobe-after-effects&logoColor=C8849F)&nbsp;
@@ -55,7 +55,6 @@
 ![Premiere](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 
 &nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
