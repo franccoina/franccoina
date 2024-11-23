@@ -63,7 +63,7 @@
 <table style="width:100%" align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=franccoina&show_icons=true&theme=dark&locale=en&hide_border=true" alt="franccoina-stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franccoina&theme=dark&hide_border=true&langs_count=13&layout=compact" alt="franccoina-stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franccoina&theme=dark&hide_border=true&langs_count=14&layout=compact" alt="franccoina-stats"></td>
   </tr>
 </table>
 
