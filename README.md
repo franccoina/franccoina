@@ -4,13 +4,12 @@
 **franccoina/franccoina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- ## 👋 &nbsp;Hey there! I'm Franco -->
-
 &nbsp;
 ### 📀 &nbsp;About Me
 
 📍 &nbsp;I'm from *Colombia*, raised in a city called *Medellín*. You should visit us someday.
 
-🎓 &nbsp;Currently studying *Software Development* at Instituto Tecnológico Metropolitanoand Riwi.
+🎓 &nbsp;Currently studying *Software Development* at Instituto Tecnológico Metropolitano and Riwi.
 
 🔎 &nbsp;Flowing from Backend to *Frontend*. I just love exploring new techs and creative fields.
 
