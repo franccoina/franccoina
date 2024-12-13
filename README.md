@@ -10,7 +10,7 @@
 
 📍 &nbsp;I'm from *Colombia*, raised in a city called *Medellín*. You should visit us someday.
 
-🎓 &nbsp;Currently studying *Software Development* at Instituto Tecnológico Metropolitano and Riwi.
+🎓 &nbsp;Currently studying *Software Development* at Instituto Tecnológico Metropolitanoand Riwi.
 
 🔎 &nbsp;Flowing from Backend to *Frontend*. I just love exploring new techs and creative fields.
 
