@@ -58,7 +58,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
 
 &nbsp;
-### ⏱ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <table style="width:100%" align="center">
   <tr>
