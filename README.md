@@ -27,6 +27,9 @@
 &nbsp;
 ### 🛠 &nbsp;Tech Stack
 
+![Java](https://badgen.net/badge/java/Java/333333?icon&label)&nbsp;
+
+
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFE873)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=FFFFFF)&nbsp;
