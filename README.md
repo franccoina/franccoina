@@ -55,7 +55,7 @@
 ![Premiere](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=conventional-commits&logoColor=8F8FFF)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=conventional-commits&logoColor=37ABFF)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
 
 &nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
