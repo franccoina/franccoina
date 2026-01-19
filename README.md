@@ -45,8 +45,8 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql&logoColor=FF9000)&nbsp;
 ![Java](https://badgen.net/badge/java/Java/05122A?icon&label&labelColor=05122A)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=37BBF6)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=095C9E)\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)\
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=conventional-commits&logoColor=FF9D08)&nbsp;
@@ -71,7 +71,7 @@
 ### ☎️ &nbsp;Contact Me
 
 <p align="center">
-  <a href="https://co.linkedin.com/in/franccoina" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-318A80?style=flat&logo=inVision&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://co.linkedin.com/in/franccoina" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-318A80?style=flat&logo=logmein&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.facebook.com/franccoico" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-327FE3?style=flat&logo=Facebook&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.behance.net/franccoina" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-572364?style=flat&logo=Behance&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.artstation.com/franccoina" target="_blank"><img src="https://img.shields.io/badge/-Franccoina-900F10?style=flate&logo=artstation&logoColor=white" alt="social-media-logo"/></a>
