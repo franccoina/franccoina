@@ -42,13 +42,13 @@
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autocad)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C)&nbsp;
-![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql&logoColor=FF9000)&nbsp;
+![C#](https://img.shields.io/badge/-C&#8209;Sharp-05122A?style=flat&logo=C)&nbsp;
+![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql&logoColor=FFB74D)&nbsp;
 ![Java](https://badgen.net/badge/java/Java/05122A?icon&label&labelColor=05122A)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)\
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=8A74B0)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=conventional-commits&logoColor=FF9D08)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After_Effects-05122A?style=flat&logo=conventional-commits&logoColor=C8849F)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=conventional-commits&logoColor=FF396B)&nbsp;
