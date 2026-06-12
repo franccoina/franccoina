@@ -46,6 +46,7 @@
 ![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql&logoColor=FF9000)&nbsp;
 ![Java](https://badgen.net/badge/java/Java/05122A?icon&label&labelColor=05122A)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)\
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
